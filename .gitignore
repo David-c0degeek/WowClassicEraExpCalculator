@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.idea/.idea.WowClassicEraExpCalculator.dir/.idea/.gitignore
+/.idea/.idea.WowExpCalculator/.idea/.gitignore
+/.idea/.idea.WowClassicEraExpCalculator.dir/.idea/encodings.xml
+/.idea/.idea.WowExpCalculator/.idea/encodings.xml
+/.idea/.idea.WowClassicEraExpCalculator.dir/.idea/indexLayout.xml
+/.idea/.idea.WowExpCalculator/.idea/indexLayout.xml
+/.idea/.idea.WowClassicEraExpCalculator.dir/.idea/vcs.xml
